@@ -3,7 +3,7 @@
   <img width="300" height="200" src="https://user-images.githubusercontent.com/102773117/171059676-dd84616d-cbde-4538-a0cd-ff455344495c.png">
 </p>
 
-Pierwsza aplikacja, którą stworzyłem na początku swojej nauki związanej z programowaniem. Jest to gra w polegające na 
+Pierwsza aplikacja, którą stworzyłem na początku nauki programowania. Jest to gra w polegające na 
 powtarzaniu czynności związanych z naciskaniem w odpowiedniej kolejności przycisków. Gracz musi śledzić
 losowo wygenerowany schemat przez aplikacje. Kolejność naciskania przycisków sygnalizowana jest zmianą koloru
 oraz dzwiękiem. Wraz z postępem w grze, użytkownik ma coraz dłuższy schemat do powtórzenia. Błędne naciśnięcie przycisku restartuje rozgrywkę. 
