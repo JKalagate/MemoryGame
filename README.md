@@ -1,6 +1,6 @@
 # MemoryGame
 <p align="center">
-  <img width="300" height="200" src="https://user-images.githubusercontent.com/102773117/171059676-dd84616d-cbde-4538-a0cd-ff455344495c.png">
+  <img width="300" height="200" src="https://user-images.githubusercontent.com/102773117/171263789-57ad5340-9ff2-4145-bcc4-b604ac2e71d4.png">
 </p>
 
 Pierwsza aplikacja, którą stworzyłem na początku nauki programowania. Jest to gra w polegające na
