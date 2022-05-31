@@ -4,7 +4,7 @@
 </p>
 
 Pierwsza aplikacja, którą stworzyłem na początku nauki programowania. Jest to gra w polegające na
-powtarzaniu czynności związanych z wciskaniem w odpowiedniej kolejności przycisków. Gracz musi śledzić
+powtarzaniu czynności związanych z wciskaniem przycisków w odpowiedniej kolejności. Gracz musi śledzić
 losowo wygenerowany schemat przez aplikacje. Kolejność naciskania przycisków sygnalizowana jest zmianą koloru
 oraz dzwiękiem. Wraz z postępem w grze, użytkownik ma coraz dłuższy schemat do powtórzenia. Błędne naciśnięcie przycisku restartuje rozgrywkę.  
 
