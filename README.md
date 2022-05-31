@@ -12,7 +12,7 @@ oraz dzwiękiem. Wraz z postępem w grze, użytkownik ma coraz dłuższy schemat
 
 -Język Java.                                                   
 -Minumum SDK API 21:Andorid 5.0                       
--Przy tworzeniu aplikacji, nie korzystałem ani z Figmy ani Adobe Xd dlatego emulować ją należy na telefonach z minimalną rozdzielczością: 1080x1920
+-Emulować należy na telefonach z minimalną rozdzielczością: 1080x1920
 
 - 📫 How to reach me **jakub.kalagate@gmail.com**
 
